@@ -1,8 +1,7 @@
 
 <template>
   <div id="app">
-    <h1>Lista de Tarefas</h1>
-    <button @click="getTasks">buscar dados do servidor</button>
+    <h1>Lista de Tarefas</h1>    
     <hr />
     <input v-model="newTask" type="text"/>
     <button @click="addTask">Adicionar</button>
