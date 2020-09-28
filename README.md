@@ -1,6 +1,6 @@
 # djangodocker
 
-Atividade de computação em nuvem
+Atividade
 
 Projeto de django+vue+docker
 
